@@ -1,0 +1,335 @@
+.p1{
+
+
+	font-size: 450%;
+	padding-top: 50%;
+	margin-top: 25%;
+	margin-right: -10%;
+	margin-left: 10%;
+  display: inline;
+  text-align: center;
+
+	}
+
+  
+
+body{
+
+	background: black;
+
+	}
+
+
+h2{
+
+font-size: 10px;
+
+}
+
+#busc{
+  background-color:#2F4F4F;
+  border:solid 1px;
+  border-radius:15px;
+  width:300px;
+  margin-left: 800px;
+}
+
+#txtBusca{
+
+  background-color:white;
+  padding-left:5%;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32%;
+  width:90%;
+  float: right;
+
+
+}
+
+.prima{
+
+  font-size: 300%;
+  
+ color: black;
+
+
+
+
+}
+
+.prima69{
+
+font-size: 300%;
+ 
+ color: black
+
+
+}
+
+.barra{
+  background: #e65100;
+
+}
+
+
+.body{
+
+  background: black;
+}
+
+h1{
+
+  font-size: 40px;
+
+  color: #e65100;
+}
+
+.peum{
+
+  color: #e65100;
+  font-size: 250%;
+  float: right;
+  display: inline;
+}
+
+.peum2{
+
+  color: #e65100;
+  font-size: 250%;
+  float: left;
+  display: inline;
+}
+
+/*#xb{
+ 
+    margin: 10% 0 10% 450%;
+    
+    line-height: 25%;
+
+}
+
+#xb2{
+  float: right;
+  display: inline-block;
+  width: 35%;
+  height: 35%;
+}*/
+
+.text{
+   float: right;
+  
+  
+}
+
+.text2{
+   float: left;
+
+  
+}
+
+#hi{
+
+  float: left, 50px;
+  font-color: red;
+
+}
+
+#lucas{
+
+text-align: center;
+
+}
+
+
+
+/*segunda*/
+
+#xb2{
+
+margin: -3% 0 10% -3000%;
+
+}
+
+.body2{
+background: black;
+
+}
+
+#pro2{
+
+text-align: center;
+
+}
+
+.peum3{
+  color: #e65100;
+  font-size: 250%;
+  float: right;
+  display: inline;
+}
+
+#xb3{
+
+ 
+  display: inline-block;
+  width: 90%;
+  height: 30%;  
+
+}
+
+
+#xb4{
+
+ 
+  display: inline-block;
+  width: 50%;
+  height: 50%; 
+   
+
+}
+
+.peum4{
+color: #e65100;
+  font-size: 250%;
+  float: right;
+  display: inline;
+
+}
+
+.text5{
+   float: left;
+   display: inline-block;
+   width: 50%;
+}
+
+#box{
+text-align: center;
+
+}
+
+
+#hi{
+
+text-align: center;
+
+}
+
+#call{
+
+margin: 10px 0 10px 300px;
+
+}
+
+#fifa{
+
+margin: 10px 0 10px 300px;
+
+}
+
+#shet{
+
+margin: 10px 0 10px 300px;
+
+}
+
+#esta{
+
+text-align: center;
+font-size: 300%;
+color: #e65100;
+
+}
+
+
+@media only Screen and (max-width: 1000px){
+
+#xb4{
+
+display: none;
+  
+  }
+
+ .peum4{
+
+color: #00c853;
+
+ }
+
+ .peum3{
+
+color: #0091ea;
+
+ }
+
+
+#xb3{
+
+display: none;
+
+}
+
+#xb4{
+
+display: none;
+
+}
+
+#pro2{
+
+color: #1a237e;
+
+}
+
+#box{
+
+color: #1b5e20;
+
+}
+
+.body2{
+
+background-color: #e0e0e0;
+
+}
+
+
+
+
+.body{
+
+background-color: #eeeeee;
+
+}
+
+	#lucas{
+
+		color: black;
+
+	}
+
+	#hi{
+
+		color: black;
+
+	}
+
+	.peum{
+
+		color:  #b71c1c;
+
+	}
+
+	.peum2{
+
+		color: #b71c1c;
+
+	}
+
+
+
+
+
+}
+
